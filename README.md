@@ -2,6 +2,7 @@
 
 <!--
 **22052679-wq/22052679-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/user-attachments/assets/c6142143-bbd8-458a-a394-c20b5d23f5bf)
 
 Here are some ideas to get you started:
 
